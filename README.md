@@ -55,6 +55,7 @@ This type of counter is normally referred to as a Down Counter, (CTD). In a bina
 Program for flipflops  and verify its truth table in quartus using Verilog programming.
 Developed by: Vishal Gowthaman K R
 RegisterNumber:  212221230123
+
 module ex7(input CLK,input reset,output [0:3]counter);
 reg [0:3] counter_up;
 always@(posedge CLK or posedge reset)
@@ -83,7 +84,8 @@ endmodule
 
 
 
-### TIMING DIGRAMS FOR COUNTER  
+### TIMING DIGRAMS FOR COUNTER
+![](https://github.com/VishalGowthaman/Exp-7-Synchornous-counters-/blob/main/de%20ex6.png)
 
 
 
