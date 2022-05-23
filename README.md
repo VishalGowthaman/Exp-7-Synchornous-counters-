@@ -74,7 +74,8 @@ endmodule
 
 
 
-### RTL LOGIC UP COUNTER AND DOWN COUNTER  
+### RTL LOGIC UP COUNTER   
+![](https://github.com/VishalGowthaman/Exp-7-Synchornous-counters-/blob/main/de%20ex7.png)
 
 
 
@@ -84,7 +85,7 @@ endmodule
 
 
 
-### TIMING DIGRAMS FOR COUNTER
+### TIMING DIGRAMS FOR UP COUNTER
 ![](https://github.com/VishalGowthaman/Exp-7-Synchornous-counters-/blob/main/de%20ex6.png)
 
 
