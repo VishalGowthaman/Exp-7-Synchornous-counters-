@@ -48,8 +48,6 @@ This type of counter is normally referred to as a Down Counter, (CTD). In a bina
 ### Procedure
 /* write all the steps invloved */
 
-
-
 ### PROGRAM 
 ```
 Program for flipflops  and verify its truth table in quartus using Verilog programming.
@@ -83,34 +81,25 @@ assign counter=counter_down;
 endmodule
 ```
 
-
-
-
-
-
 ### RTL LOGIC UP COUNTER   
 ![](https://github.com/VishalGowthaman/Exp-7-Synchornous-counters-/blob/main/de%20ex7.png)
 
-
-
-
-
-
-
-
+### RTL LOGIC UP COUNTER  
+![](https://github.com/VishalGowthaman/Exp-7-Synchornous-counters-/blob/main/p2.png)
 
 ### TIMING DIGRAMS FOR UP COUNTER
 ![](https://github.com/VishalGowthaman/Exp-7-Synchornous-counters-/blob/main/de%20ex6.png)
-
-
-
-
+ 
+### TIMING DIGRAMS FOR DOWN COUNTER
+![](https://github.com/VishalGowthaman/Exp-7-Synchornous-counters-/blob/main/p4.png)
 
 ### TRUTH TABLE 
 
+### UP COUNTER
+![](https://github.com/VishalGowthaman/Exp-7-Synchornous-counters-/blob/main/p5.png)
 
-
-
-
+### DOWN COUNTER
+![](https://github.com/VishalGowthaman/Exp-7-Synchornous-counters-/blob/main/p6.png)
 
 ### RESULTS 
+Thus Synchornous counters up counter and down counter circuit are studied and the truth table for different logic gates are verified.
